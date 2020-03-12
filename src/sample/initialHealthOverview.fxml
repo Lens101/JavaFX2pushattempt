@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <?import javafx.stage.Stage?>
+=======
+
+>>>>>>> github/master
 <?import com.jfoenix.controls.JFXButton?>
 <?import com.jfoenix.controls.JFXTextField?>
 <?import java.net.URL?>
@@ -14,6 +18,10 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> github/master
 <AnchorPane prefHeight="400.0" prefWidth="600.0" styleClass="signupbg" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.InitialHealthOverview">
    <children>
       <Label layoutX="208.0" layoutY="20.0" prefHeight="26.0" prefWidth="187.0" text="Initial Health Overview" textAlignment="CENTER">
@@ -31,8 +39,12 @@
       </JFXButton>
       <JFXTextField layoutX="122.0" layoutY="103.0" />
       <Label layoutX="33.0" layoutY="162.0" text="Ideal Weight" />
+<<<<<<< HEAD
       <JFXTextField fx:id="idealweightbox" layoutX="117.0" layoutY="158.0" prefHeight="26.0" prefWidth="140.0" />
        //testArea
+=======
+      <JFXTextField layoutX="122.0" layoutY="158.0" />
+>>>>>>> github/master
       <Label layoutX="420.0" layoutY="59.0" text="Body Type" />
       <Label layoutX="35.0" layoutY="236.0" text="Current Diet" />
       <Label layoutX="36.0" layoutY="200.0" text="Gender" />
